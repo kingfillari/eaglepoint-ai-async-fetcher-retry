@@ -1,4 +1,4 @@
-# EaglePoint AI Async Fetcher with Retry
+# EaglePoint AI Async Fetcher with Retry with typescript
 
 A robust, production-ready TypeScript library for fetching data with configurable retry logic, exponential backoff, and comprehensive error handling.
 
@@ -13,7 +13,7 @@ A robust, production-ready TypeScript library for fetching data with configurabl
 
 ## Installation
 
-```bash
+***bash
 npm install eaglepoint-ai-async-fetcher-retry
 Quick Start
 typescript
@@ -104,10 +104,10 @@ MIT
 text
 
 ### LICENSE
-```text
+***text
 MIT License
 
-Copyright (c) 2024 EaglePoint AI
+Copyright (c) 2025 EaglePoint AI
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -126,6 +126,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
 .gitignore
 gitignore
 # Dependencies
@@ -178,5 +180,6 @@ Develop with hot reload:
 
 bash
 npm run dev
+
 This TypeScript project provides a comprehensive, production-ready solution for async data fetching with retry logic, featuring excellent TypeScript support, comprehensive error handling, and extensive configuration options.
 
